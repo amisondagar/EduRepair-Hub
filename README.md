@@ -25,4 +25,4 @@ A real-world campus facility reporting and operations tracking system designed t
 - Admin Panel: Changes ticket telemetry data states across the database or deletes records cleanly to free local cache storage.
 
 # Author
-AMI Sondagar
+Ami Sondagar
